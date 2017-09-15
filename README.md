@@ -12,3 +12,6 @@ Lua - lightweight embeddable scripting language
 
 
 [ karpathy-char-rnn Neural Network framework](https://github.com/karpathy/char-rnn)
+
+
+[3D reconstruction from single image](https://github.com/AaronJackson/vrn)
